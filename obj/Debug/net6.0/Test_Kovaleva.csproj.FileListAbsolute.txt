@@ -1,0 +1,15 @@
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.csproj.AssemblyReference.cache
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.AssemblyInfoInputs.cache
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.AssemblyInfo.cs
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.csproj.CoreCompileInputs.cache
+D:\курсы\test\Test_Kovaleva\bin\Debug\net6.0\Test_Kovaleva.exe
+D:\курсы\test\Test_Kovaleva\bin\Debug\net6.0\Test_Kovaleva.deps.json
+D:\курсы\test\Test_Kovaleva\bin\Debug\net6.0\Test_Kovaleva.runtimeconfig.json
+D:\курсы\test\Test_Kovaleva\bin\Debug\net6.0\Test_Kovaleva.dll
+D:\курсы\test\Test_Kovaleva\bin\Debug\net6.0\Test_Kovaleva.pdb
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.dll
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\refint\Test_Kovaleva.dll
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.pdb
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\Test_Kovaleva.genruntimeconfig.cache
+D:\курсы\test\Test_Kovaleva\obj\Debug\net6.0\ref\Test_Kovaleva.dll
